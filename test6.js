@@ -39,7 +39,7 @@ function listStudentNames(school) {
 
 // 5
 
-
+ 
 
 addStudent(school);
 console.log(school);
